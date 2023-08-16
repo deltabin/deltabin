@@ -2,7 +2,7 @@
 
 <h3 align="center">Information security and Frontend Development </h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=be3455)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=131313)
 
 - 🌱 I’m currently learning **Cloud, Javascript, Web**
 

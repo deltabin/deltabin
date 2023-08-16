@@ -1,6 +1,8 @@
 <img src="header.png" alt="header"/>
 
-<h3 align="center">Information security and Frontend Development</h3>
+<h3 align="center">Information security and Frontend Development </h3>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=be3455)
 
 - 🌱 I’m currently learning **Cloud, Javascript, Web**
 

@@ -18,8 +18,7 @@
 <p align="left">
 <a href="https://t.me/gahasine" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="deltabin" height="40" width="40" /></a>
 <a href="https://vk.com/timerlander" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="deltabin" height="40" width="40" /></a>
-<a href="https://instagram.org/timerlander" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="deltabin" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC0Ygh_zsCuGUlHNu4C9b9EA" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/5d465d2dc41025f6921c12e40cf3fa0a40b5bddb/icons/spotify-2.svg" alt="deltabin" height="40" width="40" /></a>
+<a href="https://www.instagram.com/_w565_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="deltabin" height="40" width="40" /></a>
 </p>
 
 ### Languages:
